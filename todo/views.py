@@ -18,7 +18,7 @@ def add_item(request):
         Item.objects.create(name=name, done=done)
 
         return redirect('get_todo_list')
-    from = ItemForm()
+    form = ItemForm()
     context = {
         'form': form
     }
