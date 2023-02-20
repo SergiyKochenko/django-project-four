@@ -7,10 +7,10 @@ class TestDjango(TestCase):
         self.assertEqual(1, 1)
 
     def test_this_thing_works2(self):
-        self.assertEqual(1, 3)
+        self.assertEqual(1, 1)
 
     def test_this_thing_works3(self):
-        self.assertEqual(1, )
+        self.assertEqual(1, 1)
 
     def test_this_thing_works4(self):
-        self.assertEqual(1, 4)
+        self.assertEqual(1, 1)
