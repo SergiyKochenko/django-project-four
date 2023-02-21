@@ -33,7 +33,7 @@ SECRET_KEY = 'django-insecure-_ly2szxxy*)z=a(6g@zwj(4wk+)t7s77)=f26277j-zpddm=3%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['git.heroku.com/portfolio-project-four.git']
+ALLOWED_HOSTS = ['portfolio-project-four.herokuapp.com']
 
 
 # Application definition
